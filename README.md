@@ -2,10 +2,12 @@
 
 Implementation of Induction of fuzzy decision trees
 =============
+http://www.sciencedirect.com/science/article/pii/016501149400229Z
 ### Authors of the paper: ###
 Yufei Yuan [a], Michael J. Shaw [b]<br/>
 [a] Miehael G. DeGroote School of Business, McMaster University, Hamilton. Ont., Canada L8S 4M4<br/>
 [b] Beekman Institute o/ Advanced Technology and Science, University of Illinois, Urbana-Champaign, 1L, USA<br/>
+
 
 ### Author: ###
 Mohammed H. Jabreel <br/>
