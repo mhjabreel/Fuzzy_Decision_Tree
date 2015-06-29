@@ -1,4 +1,4 @@
-#Fuzzy_Decision_Tree
+#Fuzzy Decision Tree
 
 Implementation of Induction of fuzzy decision trees
 =============
