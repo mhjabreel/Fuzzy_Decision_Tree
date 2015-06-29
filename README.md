@@ -7,6 +7,11 @@ Yufei Yuan [a], Michael J. Shaw [b]<br/>
 [a] Miehael G. DeGroote School of Business, McMaster University, Hamilton. Ont., Canada L8S 4M4<br/>
 [b] Beekman Institute o/ Advanced Technology and Science, University of Illinois, Urbana-Champaign, 1L, USA<br/>
 
+### Autor: ###
+Mohammed H. Jabreel
+E-mail: mhjabreel@gmail.com <br/>
+Facebook: https://www.facebook.com/mohammed.gebreel.7<br>
+Researchgate: https://www.researchgate.net/profile/Mohammed_Jabreel
 ###  Example ###
 
 ```java
