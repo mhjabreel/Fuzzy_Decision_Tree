@@ -8,9 +8,9 @@ Yufei Yuan [a], Michael J. Shaw [b]<br/>
 [b] Beekman Institute o/ Advanced Technology and Science, University of Illinois, Urbana-Champaign, 1L, USA<br/>
 
 ### Author: ###
-Mohammed H. Jabreel
+Mohammed H. Jabreel <br/>
 E-mail: mhjabreel@gmail.com <br/>
-Facebook: https://www.facebook.com/mohammed.gebreel.7<br>
+Facebook: https://www.facebook.com/mohammed.gebreel.7<br/>
 Researchgate: https://www.researchgate.net/profile/Mohammed_Jabreel
 ###  Example ###
 
