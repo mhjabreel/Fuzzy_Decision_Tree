@@ -165,7 +165,15 @@ public class Utils {
             da[i++] = Double.parseDouble(arr[k]);
         }
         return da;
-    }   
+    } 
+    
+    public static double entropy(double[] vals) {
+        double entropy = 0;
+        for(double v : vals) {
+            entropy += v * ln(v);
+        }
+        return -entropy;
+    }
 
 /*    
     
